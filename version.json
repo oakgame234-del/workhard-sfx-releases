@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "notes": "ทดสอบระบบอัปเดตในตัว (แก้ปุ่มเปิดเบราว์เซอร์ให้ทำงานถูกต้องแล้ว)",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.3.2/WorkHard_SFX_Extension.zip"
+  "version": "1.4.0",
+  "notes": "เพิ่มระบบ License Key ผูกกับเครื่อง, แก้ปุ่มเปิดเบราว์เซอร์ในระบบอัปเดต, ตัวติดตั้งเป็นภาษาอังกฤษล้วน",
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.4.0/WorkHard_SFX_Extension.zip"
 }
