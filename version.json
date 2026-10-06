@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
   "notes": "เวอร์ชันแรก: เข้าสู่ระบบด้วยอีเมล ทดลองใช้ฟรี 7 วัน ปุ่ม FX เอฟเฟกต์และเฟด ซิงค์ตั้งค่าตามบัญชี รองรับทั้ง Windows และ Mac (Apple Silicon และ Intel)",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.1/WorkHard_SFX_Win_1.0.1.zip"
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.1/WorkHard_SFX_Win_1.0.1.zip",
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.1/WorkHard_SFX_Mac_1.0.1.zip"
 }
