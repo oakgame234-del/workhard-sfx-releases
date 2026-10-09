@@ -1,5 +1,6 @@
 {
   "version": "1.0.2",
   "notes": "เพิ่มช่อง \"รหัสแนะนำ\" ตอนเข้าสู่ระบบและในหน้าแพ็กเกจ ใส่รหัสจากผู้ร่วมขายเพื่อรับส่วนลด 5% เมื่อซื้อแพ็กเกจตลอดชีพ และเพิ่มปุ่มจัดการ / ยกเลิกการสมัครสำหรับแพ็กเกจรายเดือนแบบบัตร เพิ่มการ์ดโปรแกรมพันธมิตรในหน้าตั้งค่า และแสดงราคาแพ็กเกจตลอดชีพหลังหักส่วนลดทันทีเมื่อใส่รหัสแนะนำ",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.2/WorkHard_SFX_Win_1.0.2.zip"
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.2/WorkHard_SFX_Win_1.0.2.zip",
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.2/WorkHard_SFX_Mac_1.0.2.zip"
 }
