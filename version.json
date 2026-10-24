@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "notes": "ธีมกระดาษโน้ตในร้านค้า (ปลดล็อกด้วยการรีวิวเหมือนคอมมิก) · ทัวร์สอนใช้งานแบบมีตัวอย่างสาธิต · ปรับขนาดการ์ดอิสระด้วย Alt+ลาก · ตั้งความดังตอนพรีวิวได้ · รองรับไฟล์ MP4 (แยกเสียงเป็น WAV) · เลื่อนคลังเสียงใหญ่ลื่นขึ้น · กู้คืนจากสำรองเป็นหน้าต่างกลางจอ และกันค่าที่ตั้งไว้หายตอน Premiere ปิดผิดปกติ",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.3/WorkHard_SFX_Win_1.0.3.zip",
-  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.3/WorkHard_SFX_Mac_1.0.3.zip"
+  "version": "1.0.4",
+  "notes": "แถมชุดเสียงเริ่มต้นฟรี 190+ เสียงสำหรับแพ็กเกจรายเดือนและตลอดชีพ (โหลดในปลั๊กอิน ลบได้ภายหลัง) · ใส่โค้ดทดลองใช้ฟรีได้ในหน้าลงชื่อเข้าใช้ · SFX Map: เลื่อนเลือกผลค้นหาด้วยลูกศรบนคีย์บอร์ด และมีเส้นแสดงตำแหน่ง Playhead · แก้พรีวิวเสียง WAV แบบ ADPCM ที่เล่นไม่ได้ · ธีมคอมมิกมีรีแอคชั่นตอนเลื่อนเมาส์ · ธีมกระดาษและคอมมิกบนมือถือ · แก้หัวร้านค้าที่เบียดข้อความในแผงแคบ",
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.4/WorkHard_SFX_Win_1.0.4.zip",
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.4/WorkHard_SFX_Mac_1.0.4.zip"
 }
