@@ -1,6 +1,13 @@
 {
-  "version": "1.0.4",
-  "notes": "แถมชุดเสียงเริ่มต้นฟรี 190+ เสียงสำหรับแพ็กเกจรายเดือนและตลอดชีพ (โหลดในปลั๊กอิน ลบได้ภายหลัง) · ใส่โค้ดทดลองใช้ฟรีได้ในหน้าลงชื่อเข้าใช้ · SFX Map: เลื่อนเลือกผลค้นหาด้วยลูกศรบนคีย์บอร์ด และมีเส้นแสดงตำแหน่ง Playhead · แก้พรีวิวเสียง WAV แบบ ADPCM ที่เล่นไม่ได้ · ธีมคอมมิกมีรีแอคชั่นตอนเลื่อนเมาส์ · ธีมกระดาษและคอมมิกบนมือถือ · แก้หัวร้านค้าที่เบียดข้อความในแผงแคบ",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.4/WorkHard_SFX_Win_1.0.4.zip",
-  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.4/WorkHard_SFX_Mac_1.0.4.zip"
+  "version": "1.0.5",
+  "notes": "ธีมของฉัน: ใส่ภาพหัวแผง พื้นหลังการ์ด และภาพรายเสียงเอง เลือกสี ปรับกรอบและอนิเมชันได้อิสระ มีแม่แบบและชุดภาพสำเร็จรูป 24 ภาพ (แพ็กเกจรายเดือนและตลอดชีพ) · คลังธีมคอมมูนิตี้: แชร์ธีมของคุณขึ้นเว็บไซต์ และนำธีมของคนอื่นมาใช้ในคลิกเดียว · โหมดโฟกัส เหลือแค่ช่องค้นหากับการ์ดเสียง · ค้นหาพิมพ์ผิดก็เจอ เช่น ตบมุข ก็เจอ ตบมุก · ย้อนกลับเวอร์ชันได้จากตั้งค่า",
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.5/WorkHard_SFX_Win_1.0.5.zip",
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.5/WorkHard_SFX_Mac_1.0.5.zip",
+  "older": [
+    {
+      "version": "1.0.4",
+      "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.4/WorkHard_SFX_Win_1.0.4.zip",
+      "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.4/WorkHard_SFX_Mac_1.0.4.zip"
+    }
+  ]
 }
