@@ -2,7 +2,11 @@
   "version": "1.0.5",
   "notes": "ธีมของฉัน: ใส่ภาพหัวแผง พื้นหลังการ์ด และภาพรายเสียงเอง (หัวแผงและการ์ดใส่ GIF ขยับได้ แชร์ขึ้นคลังได้) เลือกสี ปรับกรอบและอนิเมชันได้อิสระ มีแม่แบบและชุดภาพสำเร็จรูป 24 ภาพ (แพ็กเกจรายเดือนและตลอดชีพ) · คลังธีมคอมมูนิตี้: แชร์ธีมของคุณขึ้นเว็บไซต์ และนำธีมของคนอื่นมาใช้ในคลิกเดียว · การ์ดกระจกใสขึ้นในโหมดสว่างและธีมสีสัน · แก้แถวสูงขึ้นตอนกดค้างลากการ์ด · โหมดโฟกัส · ค้นหาพิมพ์ผิดก็เจอ · ย้อนกลับเวอร์ชันได้จากตั้งค่า",
   "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.5/WorkHard_SFX_Win_1.0.5.zip",
+  "sha256": "7063d635caf6e0a582dbd471644e8020c1aa960ecd9d50a7d32af3756df991fa",
+  "size": 2013990,
   "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.5/WorkHard_SFX_Mac_1.0.5.zip",
+  "sha256Mac": "70b15cc562ab844bc4a8084e72f65fb80b2639f9936b2e774de9dfc6e8d019a0",
+  "sizeMac": 1266225,
   "older": [
     {
       "version": "1.0.4",
