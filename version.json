@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "notes": "อัปเดตในแผงได้ในคลิกเดียว: กด \"อัปเดตเลย\" แล้วแผงจะโหลดและติดตั้งให้เอง (Windows และ Mac) ไม่ต้องเปิดเว็บหรือรันตัวติดตั้งเอง แล้วปิดเปิด Premiere Pro ใหม่",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.6/WorkHard_SFX_Win_1.0.6.zip",
-  "sha256": "1f7df42a7f85f33d0fe94a6d3f5fa48d9dc322bccf2e54e7a190f5bcf1942b90",
-  "size": 2014387,
-  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.6/WorkHard_SFX_Mac_1.0.6.zip",
-  "sha256Mac": "5e410f94c2c0328eabe268e81de3592029c1a0a61f7670376626d47fbd89c1c8",
-  "sizeMac": 1266411,
+  "version": "1.0.7",
+  "notes": "ลื่นขึ้น โดยเฉพาะบน Mac · เลือกคุณภาพกราฟิกได้ในตั้งค่า (อัตโนมัติ / ประหยัด / สมดุล / สวยสุด) ถ้าเครื่องดูหน่วง แผงจะชวนลดให้เอง · ถ้า Premiere ไม่ตอบสนอง กดโหลดแผงใหม่ได้ทันทีโดยไม่ต้องปิด Premiere",
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.7/WorkHard_SFX_Win_1.0.7.zip",
+  "sha256": "e4dd24bb4455db94b45bd5e2674d514c35ba6b8f140ab7433cef6b11b03889af",
+  "size": 2023838,
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.7/WorkHard_SFX_Mac_1.0.7.zip",
+  "sha256Mac": "2257e018df42a10ac7e77e7db714064e02c90b0b51c4a2ef0794a9be74547234",
+  "sizeMac": 1271059,
   "older": [
     {
       "version": "1.0.4",
