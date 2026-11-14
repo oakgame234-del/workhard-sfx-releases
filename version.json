@@ -1,13 +1,18 @@
 {
-  "version": "1.0.9",
-  "notes": "ปรับขนาดแผงได้ 80–160% · ชี้เมาส์ที่เสียงเพื่อฟังตัวอย่างได้เลย · วางเสียงแล้วแผงอยู่หน้าสุด ไม่ถูกแท็บอื่นบัง · ระบบแรงค์หน้าตาใหม่ สลับสัปดาห์/เดือนลื่นขึ้น · ตั้งชื่อหัวแผงเองได้ (แผนถาวร) · ถ้า Premiere ค้าง แผงกลับมาใช้ต่อเอง · ไฟล์เสียงที่เคยฟังตัวอย่างไม่ได้ ตอนนี้ฟังได้มากขึ้น · Mac: กด Control แล้วคลิกเพื่อฟังตัวอย่าง",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.9/WorkHard_SFX_Win_1.0.9.zip",
-  "sha256": "f31734d6dd62be185e9104f2af99f44d0f649a50caa4c09fb2a101e41bada4b6",
-  "size": 2078473,
-  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.9/WorkHard_SFX_Mac_1.0.9.zip",
-  "sha256Mac": "1b647e046903a80a329347ad2ab50cbedd3aae96289e4e6d60831a7f728bbd74",
-  "sizeMac": 1297859,
+  "version": "1.1.0",
+  "notes": "สี Label ของ Premiere ตามแท็บหรือรายเสียง · ลากเสียงไปแท็บโฟลเดอร์อื่น หรือทิ้งลงถังขยะ · เรียงการ์ดตามชื่อ เวลานำเข้า หรือความยาว · หมุนลูกกลิ้งเลื่อนตำแหน่งตอนฟังตัวอย่าง · เสียงดังเท่ากันตอนวาง · วางเสียงทุกมาร์กเกอร์ในคลิกเดียว · จัดลำดับ/ขนาดแท็บโฟลเดอร์ · ปุ่มลัดใหม่ (Ctrl+คลิก, Ctrl+ลูกกลิ้ง, Ctrl+A, Esc, กด ? ดูทั้งหมด) · ลากการ์ดที่ตัดช่วงไว้ลงตรงแทร็กที่ปล่อย · รีโมตมือถือหน้าตาใหม่ · วางเสียงเร็วขึ้นบนไทม์ไลน์ยาว",
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Win_1.1.0.zip",
+  "sha256": "b96b62b368421e25752b6a94db48211cdf6b55bd126b22e697b2d5c7ac22afa2",
+  "size": 3911405,
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Mac_1.1.0.zip",
+  "sha256Mac": "203cb1b87d8ba6d2d5f3131354204579921911a95f385ebb3451eb8b5faf948a",
+  "sizeMac": 2222788,
   "older": [
+    {
+      "version": "1.0.9",
+      "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.9/WorkHard_SFX_Win_1.0.9.zip",
+      "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.9/WorkHard_SFX_Mac_1.0.9.zip"
+    },
     {
       "version": "1.0.8",
       "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.8/WorkHard_SFX_Win_1.0.8.zip",
@@ -17,11 +22,6 @@
       "version": "1.0.7",
       "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.7/WorkHard_SFX_Win_1.0.7.zip",
       "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.7/WorkHard_SFX_Mac_1.0.7.zip"
-    },
-    {
-      "version": "1.0.6",
-      "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.6/WorkHard_SFX_Win_1.0.6.zip",
-      "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.6/WorkHard_SFX_Mac_1.0.6.zip"
     }
   ]
 }
