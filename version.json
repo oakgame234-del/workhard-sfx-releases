@@ -2,11 +2,11 @@
   "version": "1.1.1",
   "notes": "โหมดใช้งานง่าย + เมนู ⋯ ใหม่ (ปักหมุดเครื่องมือได้) · ดึงเสียงจาก Bin / ไทม์ไลน์ / หน้าต่าง Project · ลากโฟลเดอร์มาเป็นแท็บ ลากแท็บทิ้งถังขยะ · คลิกขวาที่แท็บ: ชื่อ อีโมจิ สี Label · วางตามสี marker · Shift ลากวางหลายเสียง · ป้าย New บนเสียงใหม่ · คำที่เคยค้นหา + ค้นหาในตั้งค่า · ตารางอันดับใหม่: รูปโปรไฟล์ กรอบ ให้กำลังใจ คอมเมนต์ เปิดเร็วขึ้น · คำอธิบายตอนชี้ปุ่ม",
   "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.1/WorkHard_SFX_Win_1.1.1.zip",
-  "sha256": "30f66d58483fc6a27f42c29b41045e8dd70a42136ad4e7c2212fc66487b970c7",
-  "size": 4069226,
+  "sha256": "e8b025d2f3ad48bb8edf4bb4ffe838d8013f791a9850b3b28cdbf1b157e10220",
+  "size": 4069447,
   "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.1/WorkHard_SFX_Mac_1.1.1.zip",
-  "sha256Mac": "a1bbf7a9247437ce008900fed56921a6d9450c9183eda3df49f936c599a30655",
-  "sizeMac": 2300877,
+  "sha256Mac": "bcd7399d265c9f62e2fa55c6a6c0cb5a23b597e99749d3e1f8ef5a22a8db7b2a",
+  "sizeMac": 2300983,
   "older": [
     {
       "version": "1.1.0",
