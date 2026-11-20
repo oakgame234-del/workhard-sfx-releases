@@ -1,13 +1,18 @@
 {
-  "version": "1.1.0",
-  "notes": "สี Label ของ Premiere ตามแท็บหรือรายเสียง · ลากเสียงไปแท็บโฟลเดอร์อื่น หรือทิ้งลงถังขยะ · เรียงการ์ดตามชื่อ เวลานำเข้า หรือความยาว · หมุนลูกกลิ้งเลื่อนตำแหน่งตอนฟังตัวอย่าง · เสียงดังเท่ากันตอนวาง · วางเสียงทุกมาร์กเกอร์ในคลิกเดียว · จัดลำดับ/ขนาดแท็บโฟลเดอร์ · ปุ่มลัดใหม่ (Ctrl+คลิก, Ctrl+ลูกกลิ้ง, Ctrl+A, Esc, กด ? ดูทั้งหมด) · ลากการ์ดที่ตัดช่วงไว้ลงตรงแทร็กที่ปล่อย · รีโมตมือถือหน้าตาใหม่ · วางเสียงเร็วขึ้นบนไทม์ไลน์ยาว",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Win_1.1.0.zip",
-  "sha256": "b96b62b368421e25752b6a94db48211cdf6b55bd126b22e697b2d5c7ac22afa2",
-  "size": 3911405,
-  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Mac_1.1.0.zip",
-  "sha256Mac": "203cb1b87d8ba6d2d5f3131354204579921911a95f385ebb3451eb8b5faf948a",
-  "sizeMac": 2222788,
+  "version": "1.1.1",
+  "notes": "โหมดใช้งานง่าย + เมนู ⋯ ใหม่ (ปักหมุดเครื่องมือได้) · ดึงเสียงจาก Bin / ไทม์ไลน์ / หน้าต่าง Project · ลากโฟลเดอร์มาเป็นแท็บ ลากแท็บทิ้งถังขยะ · คลิกขวาที่แท็บ: ชื่อ อีโมจิ สี Label · วางตามสี marker · Shift ลากวางหลายเสียง · ป้าย New บนเสียงใหม่ · คำที่เคยค้นหา + ค้นหาในตั้งค่า · ตารางอันดับใหม่: รูปโปรไฟล์ กรอบ ให้กำลังใจ คอมเมนต์ เปิดเร็วขึ้น · คำอธิบายตอนชี้ปุ่ม",
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.1/WorkHard_SFX_Win_1.1.1.zip",
+  "sha256": "30f66d58483fc6a27f42c29b41045e8dd70a42136ad4e7c2212fc66487b970c7",
+  "size": 4069226,
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.1/WorkHard_SFX_Mac_1.1.1.zip",
+  "sha256Mac": "a1bbf7a9247437ce008900fed56921a6d9450c9183eda3df49f936c599a30655",
+  "sizeMac": 2300877,
   "older": [
+    {
+      "version": "1.1.0",
+      "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Win_1.1.0.zip",
+      "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Mac_1.1.0.zip"
+    },
     {
       "version": "1.0.9",
       "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.9/WorkHard_SFX_Win_1.0.9.zip",
@@ -17,11 +22,6 @@
       "version": "1.0.8",
       "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.8/WorkHard_SFX_Win_1.0.8.zip",
       "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.8/WorkHard_SFX_Mac_1.0.8.zip"
-    },
-    {
-      "version": "1.0.7",
-      "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.7/WorkHard_SFX_Win_1.0.7.zip",
-      "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.7/WorkHard_SFX_Mac_1.0.7.zip"
     }
   ]
 }
