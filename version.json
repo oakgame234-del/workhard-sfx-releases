@@ -2,11 +2,11 @@
   "version": "1.1.2",
   "notes": "ขีดด้านบน = แผ่นสลับงาน: สลับชุดแท็บของแต่ละงาน · อันดับและหน้าข่าวในแผ่น (ข่าว โค้ดแจกฟรี กิจกรรม) · ป้ายแจ้งเตือนงอกจากขีด · ผสมเสียง 2–6 การ์ดเป็น .wav ใหม่ (ฟังวน ย้อน Ctrl+Z) · ย้าย/ก๊อป/ทำสำเนาการ์ด · เห็นการ์ดตอนลากออก ลากลื่นขึ้น · เห็นตำแหน่งวางของ .wav · พื้นหลังรูปโปรไฟล์ 41 สี สีอิสระ ไล่สี และพื้นหลังพิเศษ · SFX Map ตามสีคลิป · เปิดแผงเนียนขึ้น",
   "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2/WorkHard_SFX_Win_1.1.2.zip",
-  "sha256": "ba8de1ed10a145001bf73cff427d648ab52350d021668591157138fa66be9766",
-  "size": 4259309,
+  "sha256": "f97e27f6629fbab75ad5ce31d4c349edba07948842c3a7845cba4426fbcbdf9f",
+  "size": 4259376,
   "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2/WorkHard_SFX_Mac_1.1.2.zip",
-  "sha256Mac": "87d3fe34f69f611778af166defe52c0fb02b5a90fe8b3e7a0f3a3c86a4635b9d",
-  "sizeMac": 2394816,
+  "sha256Mac": "35b014dc81522f51b8c18bf7058eb619f513a9733a254cbb6ab08beb7cc0bf7e",
+  "sizeMac": 2394836,
   "older": [
     {
       "version": "1.1.1",
