@@ -1,13 +1,18 @@
 {
-  "version": "1.1.2",
-  "notes": "ขีดด้านบน = แผ่นสลับงาน: สลับชุดแท็บของแต่ละงาน · อันดับและหน้าข่าวในแผ่น (ข่าว โค้ดแจกฟรี กิจกรรม) · ป้ายแจ้งเตือนงอกจากขีด · ผสมเสียง 2–6 การ์ดเป็น .wav ใหม่ (ฟังวน ย้อน Ctrl+Z) · ย้าย/ก๊อป/ทำสำเนาการ์ด · เห็นการ์ดตอนลากออก ลากลื่นขึ้น · เห็นตำแหน่งวางของ .wav · พื้นหลังรูปโปรไฟล์ 41 สี สีอิสระ ไล่สี และพื้นหลังพิเศษ · SFX Map ตามสีคลิป · เปิดแผงเนียนขึ้น",
-  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2/WorkHard_SFX_Win_1.1.2.zip",
-  "sha256": "6844b1117078c923b341db2182197e4b3d0509284025d1f4eff48e3830f0f34b",
-  "size": 4260596,
-  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2/WorkHard_SFX_Mac_1.1.2.zip",
-  "sha256Mac": "599175115049cea362739af0b8f72f20821211e6e20dcf78785dfc47a32a6f64",
-  "sizeMac": 2395291,
+  "version": "1.1.2.1",
+  "notes": "แก้ด่วน: ลากการ์ด .mp3 แล้ววางเสียงเงียบ (เสียงที่เงียบไปแล้วจะกลับมาเองหลังอัปเดต ปิดเปิด Premiere หนึ่งครั้ง) · ลากออกนอกแผงไม่กระตุก · ระดับเสียง (dB) ติดไปทุกครั้งที่ลาก · กระดาษสีตอนขึ้นแรงก์ไม่ค้าง · ของใหม่ 1.1.2: ขีดด้านบน = แผ่นสลับงาน: สลับชุดแท็บของแต่ละงาน · อันดับและหน้าข่าวในแผ่น (ข่าว โค้ดแจกฟรี กิจกรรม) · ป้ายแจ้งเตือนงอกจากขีด · ผสมเสียง 2–6 การ์ดเป็น .wav ใหม่ (ฟังวน ย้อน Ctrl+Z) · ย้าย/ก๊อป/ทำสำเนาการ์ด · เห็นการ์ดตอนลากออก ลากลื่นขึ้น · เห็นตำแหน่งวางของ .wav · พื้นหลังรูปโปรไฟล์ 41 สี สีอิสระ ไล่สี และพื้นหลังพิเศษ · SFX Map ตามสีคลิป · เปิดแผงเนียนขึ้น",
+  "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2.1/WorkHard_SFX_Win_1.1.2.1.zip",
+  "sha256": "e15697c122d39d1278725cca3086af2bd4a985626136fac10e02e8063c7735b6",
+  "size": 4260599,
+  "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2.1/WorkHard_SFX_Mac_1.1.2.1.zip",
+  "sha256Mac": "d73d6053e5f5c6e4e610954616e071a582837cf4f85522960260ddff61b786dd",
+  "sizeMac": 2395511,
   "older": [
+    {
+      "version": "1.1.2",
+      "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2/WorkHard_SFX_Win_1.1.2.zip",
+      "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.2/WorkHard_SFX_Mac_1.1.2.zip"
+    },
     {
       "version": "1.1.1",
       "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.1/WorkHard_SFX_Win_1.1.1.zip",
@@ -17,11 +22,6 @@
       "version": "1.1.0",
       "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Win_1.1.0.zip",
       "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.1.0/WorkHard_SFX_Mac_1.1.0.zip"
-    },
-    {
-      "version": "1.0.9",
-      "downloadUrl": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.9/WorkHard_SFX_Win_1.0.9.zip",
-      "downloadUrlMac": "https://github.com/oakgame234-del/workhard-sfx-releases/releases/download/v1.0.9/WorkHard_SFX_Mac_1.0.9.zip"
     }
   ]
 }
